@@ -1,11 +1,10 @@
 <p align="center">
   <a href="https://github.com/Kishan-Vyas">
-    <img width="80%" alt="Hello, I'm Kishan Vyas" src="/github background.png" />
+    <img width="80%" alt="Hello, I'm Kishan Vyas" src="./assets/gh-readme-header.png" />
   </a>
 </p>
 
 <br />
-
 I'm a passionate developer with a strong interest in Web Development and Web3 technologies. Currently, I'm diving deep into these fields while pursuing my B.Tech in India. 
 
 **About Me**
