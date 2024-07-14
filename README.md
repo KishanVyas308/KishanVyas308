@@ -33,7 +33,7 @@ I'm a passionate developer with a strong interest in Web Development and Web3 te
 
 #### Top Repositories
 
-<a href="https://github.com/Kishan-Vyas/online-quiz">
+<a href="https://github.com/Kishan-Vyas/Blog-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kishan-Vyas&repo=online-quiz&theme=radical" />
 </a>
 <a href="https://github.com/Kishan-Vyas/company-representative-project">
