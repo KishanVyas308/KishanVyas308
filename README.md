@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Kishan-Vyas">
-    <img width="80%" alt="Hello, I'm Kishan Vyas" src="./assets/gh-readme-header.png" />
+    <img width="80%" alt="Hello, I'm Kishan Vyas" src="/github background.png" />
   </a>
 </p>
 
