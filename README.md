@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Kishan-Vyas">
-    <img width="80%" alt="Hello, I'm Kishan Vyas" src="https://www.canva.com/design/DAGK5fkNRJk/yw0vbpsydU6YJF4KhfaD-Q/edit?utm_content=DAGK5fkNRJk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+    <img width="80%" alt="Hello, I'm Kishan Vyas" src="/github background.png" />
   </a>
 </p>
 
