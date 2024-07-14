@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Kishan-Vyas">
-    <img width="80%" height="400px" object-cover="fit" alt="Hello, I'm Kishan Vyas" src="/github background.png" />
+    <img width="80%" height="400px" style="object-fit: cover;" alt="Hello, I'm Kishan Vyas" src="/github background.png" />
   </a>
 </p>
 
