@@ -27,7 +27,6 @@ I'm a passionate developer with a strong interest in Web Development and Web3 te
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 <code><img height="20" alt="firebase" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
 <code><img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
-<code><img height="20" alt="prisma" src="https://raw.githubusercontent.com/github/explore/main/topics/prisma/prisma.png"></code>
 
 | <a href="https://github.com/Kishan-Vyas/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kishan-Vyas&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Kishan's github stats" /></a> | <a href="https://github.com/Kishan-Vyas/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Vyas&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
