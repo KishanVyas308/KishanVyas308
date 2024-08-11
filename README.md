@@ -82,9 +82,6 @@
   <a href="https://twitter.com/your_twitter_handle">
     <img align="center" alt="Kishan Vyas | Twitter" width="24px" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" />
   </a>
-  <a href="https://codesandbox.io/u/your_codesandbox_handle">
-    <img align="center" alt="Kishan Vyas | CodeSandbox" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg" style="color: #f5de3b;" />
-  </a>
   <a href="https://www.linkedin.com/in/your_linkedin_handle/">
     <img align="center" alt="Kishan Vyas | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
   </a>
