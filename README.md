@@ -79,13 +79,13 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/your_twitter_handle">
+  <a href="https://x.com/kishan_vya_308">
     <img align="center" alt="Kishan Vyas | Twitter" width="24px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/your_linkedin_handle/">
+  <a href="https://www.linkedin.com/in/kishan-vyas-aa4245251/">
     <img align="center" alt="Kishan Vyas | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:kishanvyas308@gmail.com">
     <img align="center" alt="Kishan Vyas | Email" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
   </a>
 </p>
