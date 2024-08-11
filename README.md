@@ -47,7 +47,7 @@
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Kishan-Vyas&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Kishan's github stats" />
   </a>
   <a href="https://github.com/Kishan-Vyas/github-readme-stats">
-    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Vyas&layout=compact&theme=radical&hide_border=true" />
+    <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Vyas&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
 
