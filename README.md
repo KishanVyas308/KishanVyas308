@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Kishan-Vyas">
-    <img height="120px" style="object-fit: cover; border-radius: 10px;" alt="Hello, I'm Kishan Vyas" src="/github background 2.png" />
+    <img height="120px" style="object-fit: cover; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" alt="Hello, I'm Kishan Vyas" src="/github background 2.png" />
   </a>
 </p>
 
@@ -11,6 +11,8 @@
 
 <br />
 
+---
+
 ### 👨‍💻 About Me
 
 - 🎓 3rd Year B.Tech Student
@@ -20,6 +22,8 @@
 - 🚀 Built a company representative project with React, Firebase, MUI, and Recoil
 - 🎮 Created an interactive live quiz website
 - 💡 Solved 300+ LeetCode questions
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -34,7 +38,9 @@
   <code><img height="25" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
 </p>
 
-<br />
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Kishan-Vyas/github-readme-stats">
@@ -45,7 +51,17 @@
   </a>
 </p>
 
-<br />
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kishan-Vyas&theme=radical&no-frame=true&row=1&column=6" alt="Kishan's GitHub Trophies" />
+  </a>
+</p>
+
+---
 
 ### 🔝 Top Repositories
 
@@ -58,14 +74,35 @@
   </a>
 </p>
 
-<br />
-<br />
+---
+
+### 🏅 Certifications
+
+- 📜 **Certified Blockchain Developer** - By XYZ Institute
+- 📜 **Full-Stack Web Development** - By ABC Academy
+- 📜 **JavaScript Algorithms and Data Structures** - By FreeCodeCamp
+
+---
+
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://twitter.com/your_twitter_handle">
-    <img align="center" alt="Kishan Vyas | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+    <img align="center" alt="Kishan Vyas | Twitter" width="24px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
   <a href="https://codesandbox.io/u/your_codesandbox_handle">
-    <img align="center" alt="Kishan Vyas | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+    <img align="center" alt="Kishan Vyas | CodeSandbox" width="24px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
   </a>
+  <a href="https://www.linkedin.com/in/your_linkedin_handle/">
+    <img align="center" alt="Kishan Vyas | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img align="center" alt="Kishan Vyas | Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kishan-Vyas&style=flat-square&color=blue" alt="Profile Views" />
 </p>
