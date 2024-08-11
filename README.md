@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://github.com/Kishan-Vyas/github-readme-stats">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Kishan-Vyas&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Kishan's github stats" />
+    <img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api?username=Kishan-Vyas&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Kishan's github stats" />
   </a>
   <a href="https://github.com/Kishan-Vyas/github-readme-stats">
     <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Vyas&layout=compact&theme=radical&hide_border=true" />
@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="https://twitter.com/your_twitter_handle">
-    <img align="center" alt="Kishan Vyas | Twitter" width="24px" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" />
+    <img align="center" alt="Kishan Vyas | Twitter" width="24px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/your_linkedin_handle/">
     <img align="center" alt="Kishan Vyas | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
