@@ -76,30 +76,23 @@
 
 ---
 
-### 🏅 Certifications
-
-- 📜 **Certified Blockchain Developer** - By XYZ Institute
-- 📜 **Full-Stack Web Development** - By ABC Academy
-- 📜 **JavaScript Algorithms and Data Structures** - By FreeCodeCamp
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://twitter.com/your_twitter_handle">
-    <img align="center" alt="Kishan Vyas | Twitter" width="24px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+    <img align="center" alt="Kishan Vyas | Twitter" width="24px" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" />
   </a>
   <a href="https://codesandbox.io/u/your_codesandbox_handle">
-    <img align="center" alt="Kishan Vyas | CodeSandbox" width="24px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+    <img align="center" alt="Kishan Vyas | CodeSandbox" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg" style="color: #f5de3b;" />
   </a>
   <a href="https://www.linkedin.com/in/your_linkedin_handle/">
-    <img align="center" alt="Kishan Vyas | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="center" alt="Kishan Vyas | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
   </a>
   <a href="mailto:your_email@gmail.com">
-    <img align="center" alt="Kishan Vyas | Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img align="center" alt="Kishan Vyas | Email" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
   </a>
 </p>
+
 
 <br />
 
