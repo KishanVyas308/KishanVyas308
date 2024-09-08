@@ -26,9 +26,6 @@
 - 🎮 Created an interactive live quiz website
 - 💡 Solved 300+ LeetCode questions
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding-gif"/>
-</p>
 
 ---
 
