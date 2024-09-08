@@ -6,7 +6,7 @@
 
 <h2 align="center">Hello, I'm Kishan Vyas 👋</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Passionate+Developer;MERN+Stack+Enthusiast;Blockchain+Explorer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Passionate+Developer;FULL+Stack+Enthusiast;Blockchain+Explorer;Problem+Solver" />
 </p>
 <p align="center">
   A passionate developer diving deep into Web Development and Web3 technologies while pursuing my B.Tech in India.
