@@ -6,6 +6,9 @@
 
 <h2 align="center">Hello, I'm Kishan Vyas 👋</h2>
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Passionate+Developer;MERN+Stack+Enthusiast;Blockchain+Explorer;Problem+Solver" />
+</p>
+<p align="center">
   A passionate developer diving deep into Web Development and Web3 technologies while pursuing my B.Tech in India.
 </p>
 
@@ -22,6 +25,10 @@
 - 🚀 Built a company representative project with React, Firebase, MUI, and Recoil
 - 🎮 Created an interactive live quiz website
 - 💡 Solved 300+ LeetCode questions
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding-gif"/>
+</p>
 
 ---
 
@@ -90,9 +97,13 @@
   </a>
 </p>
 
-
-<br />
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kishan-Vyas&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://badges.pufler.dev/visits/Kishan-Vyas/Kishan-Vyas?color=blue" alt="visits" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2t9juAZtcUgd2/giphy.gif" width="200" alt="Thank you gif"/>
 </p>
