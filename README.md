@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Kishan-Vyas">
+  <a href="https://github.com/KishanVyas308">
     <img height="120px" style="object-fit: cover; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" alt="Hello, I'm Kishan Vyas" src="/github background 2.png" />
   </a>
 </p>
@@ -48,10 +48,10 @@
 
 <p align="center">
   <a href="https://github.com/Kishan-Vyas/github-readme-stats">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Kishan-Vyas&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Kishan's github stats" />
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=KishanVyas308&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Kishan's github stats" />
   </a>
   <a href="https://github.com/Kishan-Vyas/github-readme-stats">
-    <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Vyas&layout=compact&theme=radical&hide_border=true" />
+    <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishanVyas308&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kishan-Vyas&theme=radical&no-frame=true&row=1&column=6" alt="Kishan's GitHub Trophies" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=KishanVyas308&theme=radical&no-frame=true&row=1&column=6" alt="Kishan's GitHub Trophies" />
   </a>
 </p>
 
@@ -71,10 +71,10 @@
 
 <p align="center">
   <a href="https://github.com/Kishan-Vyas/Blog-Website">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kishan-Vyas&repo=blogit&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=blogit&theme=radical" />
   </a>
   <a href="https://github.com/Kishan-Vyas/quiztical">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kishan-Vyas&repo=quiztical&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=quiztical&theme=radical" />
   </a>
 </p>
 
@@ -97,8 +97,8 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kishan-Vyas&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://badges.pufler.dev/visits/Kishan-Vyas/Kishan-Vyas?color=blue" alt="visits" />
+  <img src="https://komarev.com/ghpvc/?username=KishanVyas308&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://badges.pufler.dev/visits/KishanVyas308/KishanVyas308?color=blue" alt="visits" />
 </p>
 
 <p align="center">
