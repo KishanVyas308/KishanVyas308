@@ -52,6 +52,8 @@
   </a>
 </p>
 
+<figure><embed src="https://wakatime.com/share/@a4792295-0000-439f-9f07-59dc4516b102/a10bec5d-3ad1-4565-b7bc-d63d0a34c897.svg"></embed></figure>
+
 ---
 
 ### 🏆 GitHub Trophies
