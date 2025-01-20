@@ -44,7 +44,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Kishan-Vyas/github-readme-stats">
+  <a href="https://github.com/KishanVyas308/github-readme-stats">
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=KishanVyas308&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Kishan's github stats" />
   </a>
   <a href="https://github.com/Kishan-Vyas/github-readme-stats">
