@@ -47,7 +47,7 @@
   <a href="https://github.com/KishanVyas308/github-readme-stats">
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=KishanVyas308&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Kishan's github stats" />
   </a>
-  <a href="https://github.com/Kishan-Vyas/github-readme-stats">
+  <a href="https://github.com/KishanVyas308/github-readme-stats">
     <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishanVyas308&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
@@ -66,15 +66,71 @@
 
 ---
 
-### 🔝 Top Repositories
+### 🔝 My Projects
 
 <p align="center">
-  <a href="https://github.com/Kishan-Vyas/Blog-Website">
+   <a href="https://github.com/KishanVyas308/Ai-Mini-Projects">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=Ai-Mini-Projects&theme=radical" />
+  </a>
+  <a href="https://github.com/KishanVyas308/Real-Time-Collaborative-Code-Editor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=Real-Time-Collaborative-Code-Editor&theme=radical" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/KishanVyas308/Blogit">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=blogit&theme=radical" />
   </a>
-  <a href="https://github.com/Kishan-Vyas/quiztical">
+  <a href="https://github.com/KishanVyas308/quiztical">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=quiztical&theme=radical" />
   </a>
+</p>
+<p align="center">
+  <a href="https://github.com/KishanVyas308/todo_task">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=todo_task&theme=radical" />
+  </a>
+  <a href="https://github.com/KishanVyas308/weather_app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=weather_app&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KishanVyas308/flutter_shoes_app_ui">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=flutter_shoes_app_ui&theme=radical" />
+  </a>
+</p>
+
+
+### 🔝 Freelance Project
+
+<p align="center">
+  <a href="https://github.com/KishanVyas308/Shashvat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=Shashvat&theme=radical" />
+  </a>
+</p>
+
+### 🔝 Internship Project
+
+<p align="center">
+  <a href="https://github.com/KishanVyas308/Import-Export">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=Import-Export&theme=radical" />
+  </a>
+</p>
+
+### 🔝 Hackathon Projects
+
+<p align="center">
+  <a href="https://github.com/KishanVyas308/BlockForge">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=BlockForge&theme=radical" />
+  </a>
+  <a href="https://github.com/KishanVyas308/AggreNet">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=AggreNet&theme=radical" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/KishanVyas308/Crop-Yard">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=Crop-Yard&theme=radical" />
+  </a>
+ 
 </p>
 
 ---
