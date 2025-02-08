@@ -106,8 +106,8 @@
   <a href="https://github.com/KishanVyas308/Shashvat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=Shashvat&theme=radical" />
   </a>
-  <a href="https://github.com/KishanVyas308/Dasaram">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=Dasaram&theme=radical" />
+  <a href="https://github.com/KishanVyas308/Dasharam">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=Dasharam&theme=radical" />
   </a>
 </p>
 
