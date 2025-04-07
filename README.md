@@ -5,23 +5,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Passionate+Developer;FULL+Stack+Enthusiast;Blockchain+Explorer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Full-Stack+Developer;Blockchain+Explorer;Problem+Solver;Lifelong+Learner" />
 </p>
-
-
-<br />
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd Year B.Tech Student
-- 🌐 Blockchain Enthusiast (Solidity, Ethereum, Web2 Integration)
-- 🔥 MERN Stack Developer
-- 💼 Experienced in TypeScript, Firebase, PostgreSQL, Prisma, and Hono
-- 🚀 Built a company representative project with React, Firebase, MUI, and Recoil
-- 🎮 Created an interactive live quiz website
-- 💡 Solved 300+ LeetCode questions
+- 🎓 3rd Year B.Tech Student | Tech Explorer  
+- 🌐 Building cool stuff at the intersection of **Web2 + Web3**  
+- 🧠 Blockchain Enthusiast – Solidity, Ethereum, Tokenized RWAs  
+- ⚡ MERN Stack & TypeScript power user  
+- 🔨 Built real-world projects for clients, startups & hackathons  
+- 💼 Worked with tools like Firebase, Prisma, PostgreSQL, Docker, WebSockets, and Hono  
+- 🚀 450+ LeetCode questions solved – DSA & CP lover  
+- 🔗 Founder of [kishanvyas.tech](https://kishanvyas.tech) – my digital identity  
+- 🛠 Always shipping, always learning  
 
 
 ---
