@@ -86,7 +86,7 @@
 
 ### 🧠 Fun Fact
 
-> “When I’m not coding, I’m probably debugging my dreams or designing my next obsession.”
+> “When I’m not coding, I’m probably debugging my dreams or designing my next obsession. ”
 
 Thanks for stopping by. Let's connect — open to **collabs, internships, and crazy startup ideas** 🚀
 
