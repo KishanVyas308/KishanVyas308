@@ -65,8 +65,6 @@ const KishanVyas = {
 };
 ```
 
-<img align="right" width="280px" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Developer Animation" />
-
 ### What I Do
 
 - 🚀 Building **full-stack web applications** with modern technologies
