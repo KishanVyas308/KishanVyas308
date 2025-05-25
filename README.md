@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0e6efd&center=true&vCenter=true&width=480&lines=Hi+there%2C+I%27m+Kishan+Vyas;Full-Stack+Developer+%7C+Cloud+Engineer;LeetCode+450%2B+Problems+Solved;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0e6efd&center=true&vCenter=true&width=480&lines=Hi+there%2C+I%27m+Kishan+Vyas;Full-Stack+Developer+%7C+Cloud+Engineer;LeetCode+475%2B+Problems+Solved;Always+learning%2C+always+building" alt="Typing SVG" />
 
   <div>
     <a href="https://kishanvyas.tech" target="_blank">
@@ -51,7 +51,7 @@ const KishanVyas = {
   title: "Full-Stack & Cloud Developer | Product Builder | DSA Geek",
   education: "Final-year B.Tech Student",
   experience: ["Internship", "2 Freelance Projects"],
-  leetcodeProblems: 450,
+  leetcodeProblems: 483,
   passions: ["Shipping Products", "Scaling Infrastructure", "Learning Fast"],
   technologies: {
     frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "JavaScript"],
