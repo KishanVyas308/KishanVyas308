@@ -172,13 +172,7 @@ const KishanVyas = {
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=Real-Time-Collaborative-Code-Editor&hide_border=true&title_color=0e6efd&text_color=ffffff&icon_color=0e6efd&bg_color=00000000" />
     </picture>
   </a>
-  <a href="https://kishanvyas.tech">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=kishanvyas308.github.io&hide_border=true&title_color=0e6efd&text_color=ffffff&icon_color=0e6efd&bg_color=00000000" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=kishanvyas308.github.io&hide_border=true&title_color=0e6efd&text_color=000000&icon_color=0e6efd&bg_color=00000000" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KishanVyas308&repo=kishanvyas308.github.io&hide_border=true&title_color=0e6efd&text_color=ffffff&icon_color=0e6efd&bg_color=00000000" />
-    </picture>
-  </a>
+ 
 </div>
 
 ## 📈 Projects Overview
@@ -228,5 +222,5 @@ const KishanVyas = {
   <p>Looking for internships, collaborations, and startup ventures</p>
   
   <img src="https://komarev.com/ghpvc/?username=KishanVyas308&style=for-the-badge&color=0e6efd" alt="Profile Views" />
-  <p align="center">Last updated: 2023-05-18</p>
+  <p align="center">Last updated: 25-05-2025</p>
 </div>
