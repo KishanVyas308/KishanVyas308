@@ -11,6 +11,9 @@
     <a href="mailto:kishanvyas308@gmail.com">
       <img src="https://img.shields.io/badge/Email-0e6efd?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://buymeacoffee.com/kishanvyas" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0e6efd?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee" />
+</a>
     <a href="https://leetcode.com/KishanVyas308/">
       <img src="https://img.shields.io/badge/LeetCode-450+-0e6efd?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
